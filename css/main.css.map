@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IACA,CACE,gBAAgB,CAAE,IAAI,CCFxB,IACA,CACE,gBAAgB,CAAE,GAAG",
+"sources": ["../sass/main.scss","../sass/modules/module.scss"],
+"names": [],
+"file": "main.css"
+}
